@@ -1,6 +1,6 @@
-## CT$_2$: A Framework for Accurate Graph Stream Summarization
+## CT2: A Framework for Accurate Graph Stream Summarization
 
-This code provides a code implementation of CT$_2$ and TowerTCMSketch and implements a script to compare CT$_2$ and TCM. CT$_2$ supports a variety of queries, including edge queries and point queries on graph data streams, and has a significant advantage in accuracy over other algorithms.
+This code provides a code implementation of CT2 and TowerTCMSketch and implements a script to compare CT2 and TCM. CT2 supports a variety of queries, including edge queries and point queries on graph data streams, and has a significant advantage in accuracy over other algorithms.
 
 #### How to run
 
